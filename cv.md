@@ -1,6 +1,6 @@
 # Indira Igilmanova
 
-===
+====
 
 #### Contacts:
 
@@ -14,7 +14,7 @@ I want to learn more.
 
 #### Code example:
 
-'''
+```
 function fizzbuzz(n)
 {
   let ar = [];
@@ -34,7 +34,7 @@ function fizzbuzz(n)
   }
   return ar;
 }
-'''
+```
 
 #### Work experience:
 
@@ -43,7 +43,7 @@ function fizzbuzz(n)
 #### Education
 
 * 2014 - 2018 - IITU, Almaty, Kazakhstan, bachelor Information Systems
-* 2018 - 202 -  IITU, Almaty, Kazakhstan, magistr Information Systems
+* 2018 - 202 -  IITU, Almaty, Kazakhstan, magister Information Systems
 
 #### Language:
 
